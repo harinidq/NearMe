@@ -74,12 +74,13 @@ Execute the programs and publish them.
 
 ## OUTPUT
 ![ex04](https://github.com/harinidq/NearMe/assets/113497680/9baa1f65-fd3a-4e17-a50d-7178744f949e)
-
+![ex04 2](https://github.com/harinidq/NearMe/assets/113497680/e86cf92c-3ccb-456b-97d4-50de44e764e6)
 
 
 
 ## HTML VALIDATOR
-![ex04 2](https://github.com/harinidq/NearMe/assets/113497680/e86cf92c-3ccb-456b-97d4-50de44e764e6)
+
+![image](https://github.com/harinidq/NearMe/assets/113497680/b9e11c90-ac36-47ff-a3ab-28bee1dc3c96)
 
 
 ## RESULT
